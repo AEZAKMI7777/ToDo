@@ -9,8 +9,13 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Models\" />
     <AvaloniaResource Include="Assets\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Assets\3.webp" />
+    <None Remove="Assets\maybe.webp" />
+    <None Remove="Assets\yo.webp" />
   </ItemGroup>
 
   <ItemGroup>
