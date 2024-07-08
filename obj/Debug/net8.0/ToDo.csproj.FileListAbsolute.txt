@@ -129,3 +129,4 @@ C:\Users\Krzysztof\Desktop\ToDo\obj\Debug\net8.0\ToDo.pdb
 C:\Users\Krzysztof\Desktop\ToDo\obj\Debug\net8.0\ToDo.csproj.Up2Date
 C:\Users\Krzysztof\Desktop\ToDo\obj\Debug\net8.0\ToDo.genruntimeconfig.cache
 C:\Users\Krzysztof\Desktop\ToDo\obj\Debug\net8.0\ref\ToDo.dll
+C:\Users\Krzysztof\Desktop\ToDo\obj\Debug\net8.0\ToDo.sourcelink.json

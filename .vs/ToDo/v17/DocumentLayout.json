@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Krzysztof\\Desktop\\ToDo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{911ACF6F-F5FB-455F-9722-F1D777D8AF8A}|ToDo.csproj|c:\\users\\krzysztof\\desktop\\todo\\views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
-      "RelativeMoniker": "D:0:0:{911ACF6F-F5FB-455F-9722-F1D777D8AF8A}|ToDo.csproj|solutionrelative:views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+      "AbsoluteMoniker": "D:0:0:{911ACF6F-F5FB-455F-9722-F1D777D8AF8A}|ToDo.csproj|c:\\users\\krzysztof\\desktop\\todo\\viewmodels\\additemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{911ACF6F-F5FB-455F-9722-F1D777D8AF8A}|ToDo.csproj|solutionrelative:viewmodels\\additemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{911ACF6F-F5FB-455F-9722-F1D777D8AF8A}|ToDo.csproj|c:\\users\\krzysztof\\desktop\\todo\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{911ACF6F-F5FB-455F-9722-F1D777D8AF8A}|ToDo.csproj|solutionrelative:viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{911ACF6F-F5FB-455F-9722-F1D777D8AF8A}|ToDo.csproj|c:\\users\\krzysztof\\desktop\\todo\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{911ACF6F-F5FB-455F-9722-F1D777D8AF8A}|ToDo.csproj|solutionrelative:viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{911ACF6F-F5FB-455F-9722-F1D777D8AF8A}|ToDo.csproj|c:\\users\\krzysztof\\desktop\\todo\\views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{911ACF6F-F5FB-455F-9722-F1D777D8AF8A}|ToDo.csproj|solutionrelative:views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,26 +31,52 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AddItemViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\Desktop\\ToDo\\ViewModels\\AddItemViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\AddItemViewModel.cs",
+              "ToolTip": "C:\\Users\\Krzysztof\\Desktop\\ToDo\\ViewModels\\AddItemViewModel.cs",
+              "RelativeToolTip": "ViewModels\\AddItemViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T18:10:31.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\Desktop\\ToDo\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\Krzysztof\\Desktop\\ToDo\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MainWindowViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T23:01:02.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "C:\\Users\\Krzysztof\\Desktop\\ToDo\\ViewModels\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ViewModelBase.cs",
+              "ToolTip": "C:\\Users\\Krzysztof\\Desktop\\ToDo\\ViewModels\\ViewModelBase.cs",
+              "RelativeToolTip": "ViewModels\\ViewModelBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T18:06:09.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "MainWindow.axaml",
               "DocumentMoniker": "C:\\Users\\Krzysztof\\Desktop\\ToDo\\Views\\MainWindow.axaml",
               "RelativeDocumentMoniker": "Views\\MainWindow.axaml",
               "ToolTip": "C:\\Users\\Krzysztof\\Desktop\\ToDo\\Views\\MainWindow.axaml",
               "RelativeToolTip": "Views\\MainWindow.axaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-11T23:01:03.952Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindowViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Krzysztof\\Desktop\\ToDo\\ViewModels\\MainWindowViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\MainWindowViewModel.cs",
-              "ToolTip": "C:\\Users\\Krzysztof\\Desktop\\ToDo\\ViewModels\\MainWindowViewModel.cs",
-              "RelativeToolTip": "ViewModels\\MainWindowViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T23:01:02.609Z"
+              "WhenOpened": "2024-04-11T23:01:03.952Z"
             }
           ]
         }
